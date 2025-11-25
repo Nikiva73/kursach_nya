@@ -1,0 +1,10 @@
+G:\2сourse\ProgramminEnginery(PI)\STO\STO\obj\Debug\STO.csproj.AssemblyReference.cache
+G:\2сourse\ProgramminEnginery(PI)\STO\STO\obj\Debug\STORegistration.Appointment.resources
+G:\2сourse\ProgramminEnginery(PI)\STO\STO\obj\Debug\STO.Properties.Resources.resources
+G:\2сourse\ProgramminEnginery(PI)\STO\STO\obj\Debug\STO.csproj.GenerateResource.cache
+G:\2сourse\ProgramminEnginery(PI)\STO\STO\obj\Debug\STO.csproj.CoreCompileInputs.cache
+G:\2сourse\ProgramminEnginery(PI)\STO\STO\bin\Debug\STO.exe.config
+G:\2сourse\ProgramminEnginery(PI)\STO\STO\bin\Debug\STO.exe
+G:\2сourse\ProgramminEnginery(PI)\STO\STO\bin\Debug\STO.pdb
+G:\2сourse\ProgramminEnginery(PI)\STO\STO\obj\Debug\STO.exe
+G:\2сourse\ProgramminEnginery(PI)\STO\STO\obj\Debug\STO.pdb
